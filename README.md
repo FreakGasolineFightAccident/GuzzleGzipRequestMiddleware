@@ -23,4 +23,4 @@ $client = new Client([$stack]);
 // Make requests galore...
 ```
 
-![](https://i.gifer.com/Klwf.gif)
+![](https://thumbs.gfycat.com/InfiniteIcyGermanwirehairedpointer-size_restricted.gif)
