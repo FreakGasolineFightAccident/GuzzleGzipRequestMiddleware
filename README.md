@@ -1,9 +1,9 @@
 # Guzzle Gzip Request Middleware
 
-#### Installation
+#### Installation with Composer
 
 ```bash
-composer require 
+composer require tech-noir-breakfast-club/guzzle-gzip-request-middleware
 ```
 
 ##### Create Guzzle Client with Gzip Middleware
