@@ -1,5 +1,7 @@
 # Guzzle Gzip Request Middleware
 
+[![CircleCI](https://circleci.com/gh/TechNoirBreakfastClub/GuzzleGzipRequestMiddleware.svg?style=svg)](https://circleci.com/gh/TechNoirBreakfastClub/GuzzleGzipRequestMiddleware)
+
 #### Installation with Composer
 
 ```bash
