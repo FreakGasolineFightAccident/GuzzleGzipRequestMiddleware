@@ -21,3 +21,6 @@ $stack->push(new GzipMiddleware());
 $client = new Client([$stack]);
 
 // Make requests galore...
+```
+
+![](https://i.gifer.com/Klwf.gif)
