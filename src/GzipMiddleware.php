@@ -3,7 +3,7 @@
 
 namespace TechNoirBreakfastClub\GuzzleGzipRequestMiddleware;
 
-use \Closure;
+use Closure;
 use Psr\Http\Message\RequestInterface;
 
 final class GzipMiddleware
