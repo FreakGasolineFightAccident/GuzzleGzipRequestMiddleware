@@ -5,8 +5,8 @@ namespace TechNoirBreakfastClub\Tests;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\HandlerStack;
-use TechNoirBreakfastClub\GuzzleGzipRequestMiddleware\GzipMiddleware;
 use PHPUnit\Framework\TestCase;
+use TechNoirBreakfastClub\GuzzleGzipRequestMiddleware\GzipMiddleware;
 
 final class GzipMiddlewareTest extends TestCase
 {
